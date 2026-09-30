@@ -39,7 +39,7 @@ The model follows `income = 828.47 × year − 1,632,210.76`, so for 2020 the re
 
 ## Forecast (2017-2026)
 
-![Regression line and forecast](images/canada_forecast.png)
+   ![Regression line and forecast](canada_forecast.png)
 
 | Year | Predicted income (US$) |
 |---|---|
